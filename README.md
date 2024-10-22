@@ -8,7 +8,6 @@ This repository provides a comprehensive collection of lecture notes, resources,
 
 - **Form Submission Validation**: Displays appropriate error messages for missing required fields or invalid input, such as incorrect age values.
 - **Success Message Display**: Shows a personalized welcome message when the form is submitted successfully with valid data, providing user feedback.
-
 </details>
 
 ## Introduction to Bootstrap
@@ -16,6 +15,7 @@ This repository provides a comprehensive collection of lecture notes, resources,
   <summary><strong>Click to read more</strong></summary>
 
 Bootstrap is a popular front-end framework for the rapid development of responsive web pages. Known for its ease of use, Bootstrap allows developers to quickly create prototypes and develop interfaces that work seamlessly across various devices.
+</details>
 
 ### Why Use Bootstrap?
 <details>
@@ -26,7 +26,6 @@ Bootstrap is a popular front-end framework for the rapid development of responsi
 - **Component-Rich**: Comes with pre-styled components like buttons, cards, modals, and forms.
 - **Ease of Use**: Minimal coding effort—just apply classes, and Bootstrap handles the styling.
 - **Consistent Look and Feel**: Provides a clean, professional appearance across projects.
-
 </details>
 
 ### New in Bootstrap 5
@@ -37,7 +36,6 @@ Bootstrap 5 offers a modernized framework with enhanced features:
 - **No More jQuery**: Replaced with vanilla JavaScript for better performance.
 - **New Components and Utilities**: Includes components like offcanvas, accordion, and extended spacing utilities.
 - **Enhanced Grid System**: Supports more customization for breakpoints and alignment.
-
 </details>
 
 ### Getting Started with Bootstrap
@@ -73,7 +71,6 @@ Bootstrap’s responsive capabilities revolve around containers and breakpoints:
   - `.container-fluid`: Full-width, spanning the entire viewport.
   - `.container-{breakpoint}`: Adjusts according to the specified breakpoint.
 - **Breakpoints**: Predefined screen size thresholds to ensure adaptive design.
-
 </details>
 
 ### Grid System
@@ -89,6 +86,7 @@ Bootstrap uses a 12-column grid system to structure page content, allowing flexi
        <div class="col-6">Column 2</div>
    </div>
    ```
+
 # Flexbox Integration
 The grid system is built with flexbox, which offers a powerful way to align and distribute space among elements within a container. Bootstrap also supports the CSS grid, although flexbox is the default.
 
