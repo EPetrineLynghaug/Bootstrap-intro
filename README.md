@@ -63,11 +63,8 @@ Set box-sizing to border-box globally:
     box-sizing: border-box;
 }
 
-</details>
 
 ### Containers and Breakpoints
-<details>
-  <summary><strong>Click to read more</strong></summary>
 
 Bootstrap’s responsive capabilities revolve around containers and breakpoints:
 
@@ -98,6 +95,7 @@ The grid system is built with flexbox, which offers a powerful way to align and 
 ## Reboot
 **Default Styling Reset**  
 Bootstrap’s “Reboot” feature resets many default browser styles to provide a consistent foundation. It sets base styling for elements like typography, forms, and buttons to ensure they appear uniformly across different browsers.
+</details>
 
 ## Typography and Text Utilities
 <details>
@@ -109,32 +107,25 @@ Bootstrap’s “Reboot” feature resets many default browser styles to provide
     - **Display Headings**: Use classes such as `display-1` to `display-6` for large, impactful headers.
     - **Muted Text**: Apply `text-muted` for subdued text styling.
 
-</details>
 
 ## Tables
-<details>
-  <summary><strong>Click to read more</strong></summary>
 
 **Bootstrap’s table styling improves default table appearance and adds functionality**:
 
 - **Striped Rows**: `table-striped` for alternating row colors.
 - **Dark Theme**: `table-dark` for dark-themed tables.
 - **Hover Effect**: `table-hover` to highlight rows on mouseover.
-</details>
+
 
 ## Forms
-<details>
-  <summary><strong>Click to read more</strong></summary>
+
 Bootstrap’s form components make it easy to create stylish forms:
 
 - **Validation**: Predefined validation states help users submit correct data.
 - **Form Layouts**: Supports inline forms, stacked forms, and grid-based layouts.
 - **Form Controls**: Includes elements like text inputs, checkboxes, and radio buttons.
-</details>
 
 ## Button Styling
-<details>
-  <summary><strong>Click to read more</strong></summary>
 
 Buttons come with different styling options for various actions:
 
