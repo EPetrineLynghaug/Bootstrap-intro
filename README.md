@@ -26,24 +26,22 @@ Bootstrap is a popular front-end framework for the rapid development of responsi
 - **Component-Rich**: Comes with pre-styled components like buttons, cards, modals, and forms.
 - **Ease of Use**: Minimal coding effort—just apply classes, and Bootstrap handles the styling.
 - **Consistent Look and Feel**: Provides a clean, professional appearance across projects.
-</details>
+
 
 ### New in Bootstrap 5
-<details>
-  <summary><strong>Click to read more</strong></summary>
+
 
 Bootstrap 5 offers a modernized framework with enhanced features:
 - **No More jQuery**: Replaced with vanilla JavaScript for better performance.
 - **New Components and Utilities**: Includes components like offcanvas, accordion, and extended spacing utilities.
 - **Enhanced Grid System**: Supports more customization for breakpoints and alignment.
-</details>
+
 
 ### Getting Started with Bootstrap
 To start using Bootstrap, refer to the [Bootstrap Quick Start Guide](https://getbootstrap.com/docs/5.3/getting-started/introduction/#quick-start).
 
 ### Basic Setup Steps
-<details>
-  <summary><strong>Click to read more</strong></summary>
+
 
 1. **Include DOCTYPE and Meta Tags**:  
    Make sure your HTML includes the `DOCTYPE` declaration and the responsive meta tag:
@@ -133,8 +131,5 @@ Buttons come with different styling options for various actions:
 </details>
 
 ## Summary
-<details>
-  <summary><strong>Click to read more</strong></summary>
 
 Bootstrap is the best choice when you need rapid development, responsive design, and a consistent appearance, as well as when the project benefits from a large community and extensive documentation. It is ideal for both small and large projects that seek a solid, flexible, and customizable solution without sacrificing quality or user experience.
-</details>
